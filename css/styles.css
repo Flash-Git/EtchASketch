@@ -9,8 +9,8 @@ body{
 
 .cell{
     background-color: #FFFFFF;
-    height: 24px;
-    width: 24px; 
+    height: 26px;
+    width: 26px; 
     float: left;
 }
 
@@ -21,8 +21,8 @@ body{
 
 #container{
     background-color: #FFFFFF;
-    width: 384px; 
-    height: 384px;
+    width: 416px; 
+    height: 416px;
     border: 1px solid black; 
     margin: 0 auto;
 }
